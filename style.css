@@ -1,0 +1,28 @@
+body
+{
+    background-image:" https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Circle-Simple-Background-Image-1.jpg"     ;
+    background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: blanchedalmond;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        text-decoration-color: lavender;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+h1
+{
+	color: cyan;
+}
